@@ -1,0 +1,26 @@
+{
+  "name": "smart-mirror",
+  "version": "1.0.0",
+  "description": "A smart mirror application that will have use two pages. One to display the interface, and one that will be the control of the interface intended to be a mobile device or a desktop.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoreyStagner/smart-mirror.git"
+  },
+  "keywords": [
+    "smart",
+    "mirror",
+    "corey",
+    "stagner",
+    "csdev"
+  ],
+  "author": "CS Dev (Corey Stagner)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoreyStagner/smart-mirror/issues"
+  },
+  "homepage": "https://github.com/CoreyStagner/smart-mirror#readme"
+}
